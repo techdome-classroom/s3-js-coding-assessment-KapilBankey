@@ -8,7 +8,9 @@ var isValid = function(s) {
       return false;
     }
     else { 
-       if()
+       for(int i=0;i<navigator;i++){
+        
+       }
     }
 
 
