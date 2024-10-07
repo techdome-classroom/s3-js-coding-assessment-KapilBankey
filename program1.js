@@ -4,7 +4,10 @@
  */
 var isValid = function(s) {
     let len = s.length();
-    if(len )
+    if(len %2 !=0){
+      return false;
+
+
 };
 
 module.exports = { isValid };
