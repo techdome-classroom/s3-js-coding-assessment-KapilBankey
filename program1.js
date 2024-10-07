@@ -8,8 +8,8 @@ var isValid = function(s) {
       return false;
     }
     else { 
-       for(int i=0;i<navigator;i++){
-        
+       for(var i=0;i<navigator;i++){
+
        }
     }
 
