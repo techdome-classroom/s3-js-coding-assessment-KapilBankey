@@ -8,7 +8,8 @@ var isValid = function(s) {
       return false;
     }
     else { 
-       for(var i=0;i<;i++){
+       for(var i=0;i<len;i++){
+        
 
        }
     }
