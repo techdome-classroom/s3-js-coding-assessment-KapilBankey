@@ -8,7 +8,7 @@ var isValid = function(s) {
       return false;
     }
     else { 
-       for(var i=0;i<navigator;i++){
+       for(var i=0;i<;i++){
 
        }
     }
